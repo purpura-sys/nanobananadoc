@@ -11,6 +11,8 @@
 1. Перейдите по ссылке: https://labs.google/fx/tools/flow/
 2. Нажмите **[+ New Project]** или зайдите в уже имеющийся проект
 3. Проекты можно переименовывать для удобства
+<img width="1528" height="991" alt="1 - Создание проекта" src="https://github.com/user-attachments/assets/203f0b97-e367-4d46-8909-9a65e48adfc1" />
+
 
 ---
 
@@ -32,22 +34,27 @@
 #### Инструкция:
 
 1. Выберите подходящее изображение на https://ru.pinterest.com/search
-2. Скопируйте или сохраните изображение
-3. Отправьте его в чатбокс Grok: https://grok.com/ с промптом для полного описания изображения
-   <img width="1361" height="679" alt="0 - поиск изображений" src="https://github.com/user-attachments/assets/b2b534d1-9fc5-4471-97e9-76c4c6ee18c1" />
+<img width="1361" height="679" alt="0 - поиск изображений" src="https://github.com/user-attachments/assets/b2b534d1-9fc5-4471-97e9-76c4c6ee18c1" />
+
+3. Скопируйте или сохраните изображение
+4. Отправьте его в чатбокс Grok: https://grok.com/ с промптом для полного описания изображения
 
 
 #### Примеры промптов для описания изображения:
 
 **На английском (рекомендуется):**
 ```
-Write a detailed prompt for generating an image in Nano Banana. Describe in minor details: pose; hairstyle; model's outfit; camera angle; photo style; background; background details; overall mood.
+Write a detailed prompt for generating an image in Nano Banana.
+Describe in minor details: pose; hairstyle; model's outfit; camera angle; photo style; background; background details; overall mood.
 ```
 
 **На русском:**
 ```
-Напишите подробное задание по созданию изображения в Nano Banana. Опишите в мельчайших деталях: позу; прическу; одежду модели; ракурс камеры; стиль фотографии; фон; детали фона; общее настроение.
+Напишите подробное задание по созданию изображения в Nano Banana.
+Опишите в мельчайших деталях: позу; прическу; одежду модели; ракурс камеры; стиль фотографии; фон; детали фона; общее настроение.
 ```
+<img width="1517" height="914" alt="1 3 - чатбокс в Грок" src="https://github.com/user-attachments/assets/733af530-3031-4316-ab07-62245891bc54" />
+
 
 > **ВАЖНО:** Правильно распишите задание по описанию изображения для правильного разделения пунктов описания по абзацам в готовом промпте. Это задаёт промпту модульность и облегчает дальнейшие дополнения и редактирования готового варианта промпта.
 
@@ -97,11 +104,17 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 ## 3. Работа с NanoBanana
 
 1. Написанный детальный промпт с описанием внешнего вида модели из пункта 2 поместите в чатбокс NanoBanana
-2. Добавьте изображения обуви, которая должна быть надета на модели, заранее указав в промпте, что обувь находится в прикрепленных изображениях
-3. Измените настройки и запустите генерацию:
+<img width="1515" height="912" alt="1 4 чатбокс НаноБанана" src="https://github.com/user-attachments/assets/018280a5-4b99-4011-80b6-22b0013257cb" />
+
+3. Добавьте изображения (референсы) обуви, которая должна быть надета на модели, заранее указав в промпте, что обувь находится в прикрепленных изображениях
+<img width="1552" height="930" alt="2 - Добавить референсы перетаскиванием" src="https://github.com/user-attachments/assets/16ca57bf-478d-4600-a2aa-dee1d4133448" />
+
+5. Измените настройки и запустите генерацию:
    - **Соотношение сторон:** 3:4
    - **Количество изображений:** x4
    - **Модель для генерации:** NanoBananaPro
+<img width="1548" height="923" alt="3 - Изм настройки, запустить ген" src="https://github.com/user-attachments/assets/26510893-c6b3-4860-afe5-d2d6af3d302f" />
+
 
 ### Повторное использование промпта
 
@@ -109,13 +122,18 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 1. Наведите на изображение
 2. Нажмите **>>> Reuse prompt**
+<img width="1553" height="919" alt="1 5 - Реюз промпта" src="https://github.com/user-attachments/assets/e7b16f2a-8b12-4cc8-b507-a4a119cc2082" />
+
 
 ---
 
 ## 4. Скачивание готовых изображений
+<img width="1551" height="965" alt="4 - Скачать" src="https://github.com/user-attachments/assets/270d9860-cf91-4bfb-a78c-3ef6e6b306d8" />
 
 - Можно выделить несколько изображений и скачать архивом: **ПКМ → Download**
 - Изображения скачаются в меньшем разрешении **1K (896×1200)** и меньшем размере файлов
+<img width="1512" height="930" alt="4 5 - Выделение объектов" src="https://github.com/user-attachments/assets/5554a9d7-6099-4868-93d9-1ab8635f13ff" />
+
 
 ---
 
@@ -127,12 +145,14 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 1. **ПКМ** в свободное место вверху
 2. Выберите **Create Collection**
+<img width="1523" height="934" alt="4 6 - Создание коллекции" src="https://github.com/user-attachments/assets/a9c8e96b-9fea-4970-bb14-a230d26ea311" />
 
 ### Переименование коллекции:
 
 1. **ПКМ** по созданной коллекции
 2. Выберите **Rename**
 3. Укажите нужный артикул
+<img width="1520" height="941" alt="4 7 - переименование коллекции" src="https://github.com/user-attachments/assets/772fea28-fa15-4249-886b-82cd731ec7c9" />
 
 ---
 
@@ -146,12 +166,14 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 - Обновите страницу
 - Нажмите на **овальную стрелку** — можно повторно использовать промпт
 - Нажмите на **круглую стрелку** — повторить генерацию с ошибкой
+<img width="1515" height="917" alt="8 - Возникающие ошибки" src="https://github.com/user-attachments/assets/e89f9069-6fd6-45ad-a497-ba73b7eb2df7" />
 
 > **Примечание:** Такое возможно и на этапе сохранения изображения. Лечится сменой сервера VPN или обновлением страницы.
+<img width="1520" height="930" alt="9 - Ошибка при сохранении" src="https://github.com/user-attachments/assets/25afeeec-cdf1-4b9c-af23-c22d05969f8e" />
 
 ---
 
-## Дополнительные ресурсы
+## Обновления и Дополнительные ресурсы
 
 С обновлениями внутри Google может меняться внешний вид рабочего пространства Flow и взаимодействие с NanoBanana. За дополнительной информацией и уточнениями обращайтесь:
 
