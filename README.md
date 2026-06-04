@@ -145,6 +145,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 1. **ПКМ** в свободное место вверху
 2. Выберите **Create Collection**
+
 Это можно сделать при выделении нужных объектов или простым перетаскиванием объектов в коллекцию.
 <img width="1523" height="934" alt="4 6 - Создание коллекции" src="https://github.com/user-attachments/assets/a9c8e96b-9fea-4970-bb14-a230d26ea311" />
 
