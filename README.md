@@ -72,11 +72,12 @@ Write a detailed prompt for generating an image in Nano Banana. Describe in mino
 #### Пример готового модульного промпта для женской обуви:
 
 ```
-Ultra-realistic high-end fashion studio photography of a beautiful young 6 feet tall woman in her mid-20s, her hair is shoulder-length, voluminous, wavy redhead with soft curtain bangs and natural movement, gently tousled by the breeze., flawless skin, wearing large black rectangular sunglasses, seated gracefully on a white geometric block against a seamless pure white backdrop.
+Ultra-realistic high-end fashion studio photography of a beautiful young 6 feet tall woman in her mid-20s, her hair is shoulder-length, voluminous, wavy redhead with soft curtain bangs and natural movement, gently tousled by the breeze., ﬂawless skin, wearing large black rectangular sunglasses, seated
+gracefully on a white geometric block against a seamless pure white backdrop.
 
-Model's breasts: full, rounded DD-cup breasts with a natural, perky shape. The model has smooth, perfect legs, her foot size is 4.5 UK. Her legs are elegantly crossed with the one leg over another, one foot slightly lifted and angled toward the camera.
+Model’s breasts: full, rounded DD-cup breasts with a natural, perky shape. The model has smooth, perfect legs, her foot size is 4.5 UK. Her legs are elegantly crossed with the one leg over another, one foot slightly lifted and angled toward the camera.
 
-Outfit: She is wearing a fitted, short-sleeved, rust-red/burgundy ribbed knit cardigan with a deep V-neck and three ornate gold-tone heart-shaped buttons. She wears a black-and-white gingham checkered short-skirt with a button-front detail. A dark bracelet is visible on her left wrist.
+Outfit: She is wearing a ﬁtted, short-sleeved, rust-red/burgundy ribbed knit cardigan with a deep V-neck and three ornate gold-tone heart-shaped buttons. She wears a black-and-white gingham checkered short-skirt with a button-front detail. A dark bracelet is visible on her left wrist.
 
 Important: She wears shoes from attached images; footwear looks smaller on model to match small and elegant woman's feet.
 
@@ -84,9 +85,9 @@ Camera angle: low to medium-low perspective, three-quarter view, tightly framed 
 
 Lighting: bright, soft high-key studio lighting with gentle diffused shadows that beautifully highlight the leather texture, skin.
 
-Photoshoot style: high-end commercial fashion editorial, ultra-sharp focus on every texture (leather, skin, outfit fabric), realistic material rendering, clean minimalist composition, vibrant colors pop against the white background, professional studio quality.
+Photoshoot style: high-end commercial fashion editorial, ultra-sharp focus on every texture (leather, skin, outﬁt fabric), realistic material rendering, clean minimalist composition, vibrant colors pop against the white background, professional studio quality.
 
-Overall mood: clean sophisticated feminine lines, confident, feminine, modern and effortlessly chic — a bold yet elegant summer fashion statement with timeless appeal.
+Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern and effortlessly chic — a bold yet elegant summer fashion statement with timeless appeal.
 ```
 
 ---
