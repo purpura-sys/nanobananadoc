@@ -194,10 +194,10 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 С обновлениями внутри Google может меняться внешний вид рабочего пространства Flow и взаимодействие с NanoBanana. За дополнительной информацией и уточнениями обращайтесь:
 
-- [google.com](https://google.com)
-- [DeepSeek Chat](https://chat.deepseek.com/)
-- [Qwen Chat](https://chat.qwen.ai/)
-- [Grok](https://grok.com/)
+- [Google](https://google.com)
+- [DeepSeek AI](https://chat.deepseek.com/)
+- [Qwen AI](https://chat.qwen.ai/)
+- [Grok AI (xAI)](https://grok.com/)
 
 ---
 
