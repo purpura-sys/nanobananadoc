@@ -56,6 +56,7 @@ Describe in minor details: pose; hairstyle; model's outfit; camera angle; photo 
 <img width="1517" height="914" alt="1 3 - чатбокс в Грок" src="https://github.com/user-attachments/assets/733af530-3031-4316-ab07-62245891bc54" />
 
 
+
 > **ВАЖНО:** Правильно распишите задание по описанию изображения для правильного разделения пунктов описания по абзацам в готовом промпте. Это задаёт промпту модульность и облегчает дальнейшие дополнения и редактирования готового варианта промпта.
 
 #### Редактирование промпта
@@ -109,6 +110,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 * Добавьте изображения (референсы) обуви, которая должна быть надета на модели, заранее указав в промпте, что обувь находится в прикрепленных изображениях
 <img width="1552" height="930" alt="2 - Добавить референсы перетаскиванием" src="https://github.com/user-attachments/assets/16ca57bf-478d-4600-a2aa-dee1d4133448" />
 
+
 * Измените настройки и запустите генерацию:
    - **Соотношение сторон:** 3:4
    - **Количество изображений:** x4
@@ -130,6 +132,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 ## 4. Скачивание готовых изображений
 <img width="1551" height="965" alt="4 - Скачать" src="https://github.com/user-attachments/assets/270d9860-cf91-4bfb-a78c-3ef6e6b306d8" />
 
+
 - Можно выделить несколько изображений и скачать архивом: **ПКМ → Download**
 - Изображения скачаются в меньшем разрешении **1K (896×1200)** и меньшем размере файлов
 <img width="1512" height="930" alt="4 5 - Выделение объектов" src="https://github.com/user-attachments/assets/5554a9d7-6099-4868-93d9-1ab8635f13ff" />
@@ -149,12 +152,14 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 Это можно сделать при выделении нужных объектов или простым перетаскиванием объектов в коллекцию.
 <img width="1523" height="934" alt="4 6 - Создание коллекции" src="https://github.com/user-attachments/assets/a9c8e96b-9fea-4970-bb14-a230d26ea311" />
 
+
 ### Переименование коллекции:
 
 * **ПКМ** по созданной коллекции
 * Выберите **Rename**
 * Укажите нужный артикул
 <img width="1520" height="941" alt="4 7 - переименование коллекции" src="https://github.com/user-attachments/assets/772fea28-fa15-4249-886b-82cd731ec7c9" />
+
 
 ---
 Для быстрого поиска изображений можно переименовать их. Для массового преименовывания любых файлов можно использовать программу Bulk Rename Utility
