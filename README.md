@@ -238,7 +238,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 ## Обновления и Дополнительные ресурсы
 
-С обновлениями внутри Google может меняться внешний вид рабочего пространства Flow и взаимодействие с NanoBanana. За дополнительной информацией и уточнениями обращайтесь:
+С обновлениями внутри Google может меняться внешний вид рабочего пространства Flow и взаимодействие с NanoBanana. За дополнительной информацией и уточнениями обращайтесь с вопросами по ссылкам:
 
 - [Google.com](https://google.com)
 - [Help Center Google Flow](https://support.google.com/flow#topic=16908930)
