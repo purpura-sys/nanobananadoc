@@ -212,7 +212,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 <img width="1525" height="996" alt="7   Добавить референсы и написать, что нужно сделать" src="https://github.com/user-attachments/assets/58637ab2-d0d0-4d37-916e-374efc349ff0" />
 
-Так же агенту можно просто дать задание по улучшению одного или группы готовых изображений, предварительно выключив инструкции.
+Так же агенту можно просто дать небольшое задание по улучшению одного или группы готовых изображений, предварительно выключив инструкции.
 
 <img width="1562" height="930" alt="8  Задача по редактированию" src="https://github.com/user-attachments/assets/d5a32169-ff60-4a98-ac3f-05341a658fa9" />
 
