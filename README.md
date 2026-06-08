@@ -209,6 +209,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 <img width="1512" height="1001" alt="6   Включить или добавить инструкции" src="https://github.com/user-attachments/assets/168b1b93-533c-4eaa-8543-557939f9845b" />
 
 При включенных инструкциях агенту можно дать задание работать по ним с заранее загруженными референсами, как было описано ранее в пункте **3.**
+Например создать 12 изображений по 4 на каждую из 3х инструкций. **Максимум может быть активно только 3 инструкции.*
 
 <img width="1525" height="996" alt="7   Добавить референсы и написать, что нужно сделать" src="https://github.com/user-attachments/assets/58637ab2-d0d0-4d37-916e-374efc349ff0" />
 
