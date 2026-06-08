@@ -204,7 +204,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 <img width="1423" height="1036" alt="5   Включить встроенного агента, инструкции" src="https://github.com/user-attachments/assets/bbcad353-bdc6-4cb1-a9f8-97dd03575791" />
 
 В меню создания инструкции можно написать несколько готовых промптов по схеме - один промпт на одну инструкцию. И включить их.
-Так же для удобства инструкция можно дать название.
+Так же для удобства инструкциям можно дать название.
 
 <img width="1512" height="1001" alt="6   Включить или добавить инструкции" src="https://github.com/user-attachments/assets/168b1b93-533c-4eaa-8543-557939f9845b" />
 
