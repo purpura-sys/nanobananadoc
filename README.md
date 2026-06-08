@@ -203,7 +203,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 <img width="1423" height="1036" alt="5   Включить встроенного агента, инструкции" src="https://github.com/user-attachments/assets/bbcad353-bdc6-4cb1-a9f8-97dd03575791" />
 
-В меню созания инструкци можно написать несколько готовых промптов по схеме - один промпт на одну инструкцию. И включить их.
+В меню создания инструкции можно написать несколько готовых промптов по схеме - один промпт на одну инструкцию. И включить их.
 Так же для удобства инструкция можно дать название.
 
 <img width="1512" height="1001" alt="6   Включить или добавить инструкции" src="https://github.com/user-attachments/assets/168b1b93-533c-4eaa-8543-557939f9845b" />
@@ -212,6 +212,9 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 <img width="1525" height="996" alt="7   Добавить референсы и написать, что нужно сделать" src="https://github.com/user-attachments/assets/58637ab2-d0d0-4d37-916e-374efc349ff0" />
 
+Так же агенту можно просто дать задание по улучшению одного или группы готовых изображений, предварительно выключив инструкции.
+
+<img width="1562" height="930" alt="8  Задача по редактированию" src="https://github.com/user-attachments/assets/d5a32169-ff60-4a98-ac3f-05341a658fa9" />
 
 
 ## 7. Ошибки соединения
