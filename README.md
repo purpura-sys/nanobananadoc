@@ -130,6 +130,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 ---
 
 ## 4. Скачивание готовых изображений
+* ПКМ по изображению или на три точки сверху.
 <img width="1551" height="965" alt="4 - Скачать" src="https://github.com/user-attachments/assets/270d9860-cf91-4bfb-a78c-3ef6e6b306d8" />
 
 
