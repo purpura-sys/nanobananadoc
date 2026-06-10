@@ -265,6 +265,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 
 - [Google.com](https://google.com)
 - [Help Center Google Flow](https://support.google.com/flow#topic=16908930)
+- [Google Flow Changelog](https://labs.google/fx/tools/flow/changelogs)
 - [DeepSeek AI](https://chat.deepseek.com/)
 - [Qwen AI](https://chat.qwen.ai/)
 - [Grok AI (xAI)](https://grok.com/)
