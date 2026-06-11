@@ -268,7 +268,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 С обновлениями внутри Google может меняться внешний вид рабочего пространства Flow и взаимодействие с NanoBanana. За дополнительной информацией и уточнениями обращайтесь с вопросами по ссылкам:
 
 - [Google.com](https://google.com)
-- [Google Flow Changelog](https://labs.google/fx/tools/flow/changelogs) - здесь можно почитать про обновления в Google Flow (NanoBanana, Veo, ect.)
+- [Google Flow Changelog](https://labs.google/fx/tools/flow/changelogs) - про обновления в Google Flow (NanoBanana, Veo, ect.)
 - [Help Center Google Flow](https://support.google.com/flow#topic=16908930) - центр помощи Google Flow (узнать как что работает)
 - [DeepSeek AI](https://chat.deepseek.com/)
 - [Qwen AI](https://chat.qwen.ai/)
