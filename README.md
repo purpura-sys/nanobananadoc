@@ -99,7 +99,7 @@ Describe in minor details: pose; hairstyle; model's outfit; camera angle; photo 
 #### Пример готового модульного промпта для женской обуви:
 
 ```
-**Ultra-realistic** high-end fashion studio photography of a beautiful young 6 feet tall woman in her mid-20s, her hair is shoulder-length, voluminous, wavy redhead with soft curtain bangs and natural movement, gently tousled by the breeze., ﬂawless skin, wearing large black rectangular sunglasses, seated
+Ultra-realistic high-end fashion studio photography of a beautiful young 6 feet tall woman in her mid-20s, her hair is shoulder-length, voluminous, wavy redhead with soft curtain bangs and natural movement, gently tousled by the breeze., ﬂawless skin, wearing large black rectangular sunglasses, seated
 gracefully on a white geometric block against a seamless pure white backdrop.
 
 Model’s breasts: full, rounded DD-cup breasts with a natural, perky shape. The model has smooth, perfect legs, her foot size is 4.5 UK. Her legs are elegantly crossed with the one leg over another, one foot slightly lifted and angled toward the camera.
@@ -116,7 +116,6 @@ Photoshoot style: high-end commercial fashion editorial, ultra-sharp focus on ev
 
 Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern and effortlessly chic — a bold yet elegant summer fashion statement with timeless appeal.
 ```
-
 ---
 
 ## 3. Работа с NanoBanana
