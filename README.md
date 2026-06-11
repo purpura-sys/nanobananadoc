@@ -184,7 +184,7 @@ Overall mood: clean sophisticated feminine lines, conﬁdent, feminine, modern a
 ---
 ### Переименовывание файлов
 
-Для быстрого поиска изображений можно переименовать их. Для массового преименовывания любых файлов можно использовать программу Bulk Rename Utility
+Для быстрого поиска изображений можно переименовать их. Для массового преименовывания любых файлов можно использовать программу [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/)
 <img width="1309" height="90" alt="Снимок экрана (35) — копия" src="https://github.com/user-attachments/assets/71ef18c8-48cd-41ef-bf91-e1c808ece39b" />
 
 
